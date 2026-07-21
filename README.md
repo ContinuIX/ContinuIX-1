@@ -81,10 +81,10 @@ Motivation:
 
 ### WP3 \- Simulations based on perturbed inputs
 
-\~100 simulations for each of the glaciers with induced noise on various spatial scales
+13 simulations for each of the glaciers with induced noise on various spatial scales
 
-* 2 levels for ice thickness  
-* 2 levels for velocity  
+* for ice thickness  
+* for velocity  
 * reduced spatial resolution
 
 Motivation:
