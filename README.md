@@ -71,7 +71,7 @@ Motivation:
 
 ### WP2 \- Simulations based on raw inputs
 
-For the real-world cases, the input fields will be provided with existing gaps in the data, and only the GPR profiles of ice thickness will be provided. For the synthetic Aletsch setup, velocity and thickness values were reduced to lower elevations (below the 33%-percentile in the ice-covered area, 2914.6m a.s.l.)  and to three elevation bands along the lower trunk (2300±5m, 2500±2.5m and 2700±5 m a.s.l.), respectively.
+For the real-world cases, the input fields will be provided with existing gaps in the data, and only the GPR profiles of ice thickness will be provided. For the synthetic glacier setup, velocity and thickness values were reduced to lower elevations (below the 33%-percentile in the ice-covered area, 2914.6m a.s.l.) and to three elevation bands along the lower trunk (2300±5m, 2500±2.5m and 2700±5 m a.s.l.), respectively.
 
 Motivation:
 
