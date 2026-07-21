@@ -99,7 +99,7 @@ Motivation:
 
 * Can approaches deal with coarser & more uncertain data in view of a regional-to-global scale application? For instance by providing a reasonable mass balance gradient?
 
-  # Receiving the data
+# Receiving the data
 
 * The data can be accessed at Zenodo: **10.5281/zenodo.21401808**   
 * All the input data to represents \~10 GB (\~1-50 MB per glacier, per experiment).
