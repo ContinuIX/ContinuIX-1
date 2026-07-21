@@ -26,12 +26,12 @@ The WG is organized in three work packages (WPs) as follows:
 
 ### Synthetic cases
 
-1. One glacier run with Elmer/Ice simulation and a 10-year perturbation after equilibration (+/-ELA & East-West gradient with sampling of uncertainty; 10 experiments)  
-2. One basic geometry run with Icepack until equilibrated state (with uncertainty sampling; 10 experiments)
+- One glacier run with Elmer/Ice simulation and a 10-year perturbation after equilibration (+/-ELA & East-West gradient with sampling of uncertainty; 10 experiments)  
+- One basic geometry run with Icepack until equilibrated state (with uncertainty sampling; 10 experiments)
 
 ### Real-world cases
 
-1. 6 glaciers compiled from WP1
+6 glaciers compiled from WP1
 
 ### 
 
