@@ -31,7 +31,7 @@ The WG is organized in three work packages (WPs) as follows:
 
 ### Real-world cases
 
-6 glaciers compiled from WP1
+- 6 glaciers compiled from WP1
 
 ### 
 
