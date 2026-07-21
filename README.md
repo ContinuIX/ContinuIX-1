@@ -159,9 +159,9 @@ The following fields should be returned with their estimated uncertainty (if app
 For flux-gate approaches, the surface mass balance values should be given for each of the provided bins.
 
 You will be required to upload your results to the shared SharePoint folder (you will only be able to access your own folder) and to follow the following experiment submission structure:
-
+```
 |-- GROUP\_abc/ 			\#\# recognizable group shorthand name   
-   |--- EXP01/  
+    |--- EXP01/  
         |— EXP01\_G01\_method01.nc  	\#\# 1 netcdf per experiment, glacier and method  
         |— EXP01\_G02\_method01.nc  
     |--- EXP02/  
@@ -173,7 +173,7 @@ You will be required to upload your results to the shared SharePoint folder (you
     |--- SUBMISSION\_CHECKLIST.txt       	 \#\# provided by ContinuIX team, to be filled out  
     |--- README\_submission\_template.txt 	\#\# provided by ContinuIX team: template  
     |--- FILE\_NAMING\_INSTRUCTIONS.txt   	\#\# provided by ContinuIX team
-
+```
 The results of each experiment for each glacier need to be submitted in one single netCDF file using the following naming convention: EXP\#\#\_G\#\#\_method\#\#.xxx, with EXP\#\# indicating the experiment number, G\#\# the glacier number and method\#\# the method number. Use 2 digit numbers. For example: EXP02\_G03\_method01.nc
 
 Also required is the logged computation time and computing resources used to run the various experiments to be reported in a log\_GROUP\_abc.txt file.
