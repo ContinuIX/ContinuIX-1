@@ -2,6 +2,12 @@
 
 # 
 
+# Submission deadline
+
+**Intent to participate:** Please fill in the Google [Form](https://docs.google.com/forms/d/e/1FAIpQLSdOPA71TGtmtFK1WGLlxK5NUTMeYQBSR2UYkkisbPKoAyssRg/viewform?usp=publish-editor) by **August 31st.** We will then send you a link on which you will be able to upload your data and accompanying readmes.
+
+**Data submission:** The simulations must be submitted in the prescribed format and received latest on **1 October 2026**. 
+
 # What is ContinuIX?
 
 The overall goal of this IACS working group (WG) is bringing together the research community that is developing continuity inversion and mass-conservation methodologies. These approaches derive glacier surface mass balance directly from glacier dynamics \- using distributed surface velocity, ice thickness and elevation change products \- as an alternative or complement to traditional climate-driven models. We use the best data there is out there and test which approaches can ‘reliably’ infer SMB quantities. We aim to answer the following research questions based on high-quality data from reference glaciers:
@@ -134,12 +140,6 @@ We further support all (data and method) contributors to become co-authors by fu
 
 1. You must read drafts and provide meaningful feedback. Potential co-authors will be given adequate time to provide this feedback.  
 2. You must approve the submitted version prior to submission (and any substantially revised re-submitted versions).
-
-# Submission deadline
-
-**Intent to participate:** Please fill in the Google [Form](https://docs.google.com/forms/d/e/1FAIpQLSdOPA71TGtmtFK1WGLlxK5NUTMeYQBSR2UYkkisbPKoAyssRg/viewform?usp=publish-editor) by **August 31st.** We will then send you a link on which you will be able to upload your data and accompanying readmes.
-
-**Data submission:** The simulations must be submitted in the prescribed format and received latest on **1 October 2026**. 
 
 # Results submission
 
