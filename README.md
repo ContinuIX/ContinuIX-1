@@ -200,7 +200,7 @@ The protocol was developed by (alphabetical order): Victor Devaux-Chupin, Johann
 
 # Contacts
 
-Victor Devaux-Chupin: [vdevauxchupin@alaska.edu](mailto:devauxchupin.v@gmail.com)   
+Victor Devaux-Chupin: [devauxchupin.v@gmail.com](mailto:devauxchupin.v@gmail.com)   
 Johannes J. Fürst: [johannes.fuerst@fau.de](mailto:johannes.fuerst@fau.de)   
 Maaike Izeboud: [maaike.izeboud@vub.be](mailto:maaike.izeboud@vub.be)  
 Marin Kneib: [marin.kneib@unifr.ch](mailto:marin.kneib@unifr.ch)   
