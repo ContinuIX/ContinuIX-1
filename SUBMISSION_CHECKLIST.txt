@@ -1,0 +1,9 @@
+=============================================================================================================================
+CONTINUIX SUBMISSION CHECKLIST:
+
+1. README (txt). Follow instructions listed in the README_submission_template.txt from `https://github.com/ContinuIX/ContinuIX-1`
+2. LOG (txt). Computation log and processing notes, including computing time and resources required to run various experiments.
+3. Experiment results (nc). Results of each experiment, submitted as a single NetCDF file for each glacier and experiment. Follow formatting instructions described at `https://github.com/ContinuIX/ContinuIX-1`
+
+Ensure all files are named and organized properly, with a clear group name and folder structure. See FILE_NAMING_INSTRUCTIONS.txt from `https://github.com/ContinuIX/ContinuIX-1`
+

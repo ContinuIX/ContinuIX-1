@@ -1,0 +1,20 @@
+=============================================================================================================================
+CONTINUIX FILE NAMING INSTRUCTIONS:
+
+The results of each experiment for each glacier need to be submitted in one single netCDF file using the following naming convention: 
+
+EXP##_G##_method##.nc
+
+with EXP## indicating the experiment number, G## the glacier number and method## the method number. Use 2 digit numbers. For example: EXP02_G03_method01.nc. The results should be submitted using the following folder structure:
+
+
+|-- GROUP_abc/ 			          ## recognizable group shorthand name   
+    |--- EXP01/  
+        |— EXP01_G01_method01.nc  	  ## 1 netcdf per experiment, glacier and method  
+        |— EXP01_G02_method01.nc  
+    |--- EXP02/  
+        |— EXP02_G01_method01.nc  
+        |— EXP02_G02_method01.nc  
+    |--- EXP03/  
+    |--- log_GROUP_abc.txt                ## computation log, processing notes  
+    |--- README_GROUP_abc_method##.txt    ## submitted metadata  
