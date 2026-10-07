@@ -1,4 +1,8 @@
-# Synthetic Glacier Pipeline
+# Elmer/Ice Synthetic Glacier Pipeline
+
+All details can be found here: https://github.com/nikolajovanovic98/ContinuIX_WP2_FAU
+
+# Icepack Synthetic Glacier Pipeline
 
 Icepack-based synthetic half-pipe glacier simulation with two bed variants (flat and wave),
 plus input generation for the CONTINUIX inversion framework.
@@ -106,3 +110,5 @@ python3 2_generate_inputs_wave_bed.py
 ```
 
 Must be run inside the Firedrake environment (Icepack dependency).
+
+
